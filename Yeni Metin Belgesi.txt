@@ -1,0 +1,42 @@
+
+    <div class="second">
+        <div class="left">
+            <div class="container">
+                <div class="row">
+                <div class="col-lg-6">
+                    <div class="col-lg-6">
+                        <div class="box">
+                            <i class="fa-solid fa-rug"></i>
+                            <h3>Activities</h3>
+                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga veniam similique deserunt veritatis placeat itaque</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="box">
+                            <i class="fa-solid fa-route"></i>
+                            <h3>Travel Arrangements</h3>
+                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga veniam similique deserunt veritatis placeat itaque</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="box">
+                            <i class="fa-solid fa-child-reaching"></i>
+                            <h3>Private Guide</h3>
+                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga veniam similique deserunt veritatis placeat itaque</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="box">
+                            <i class="fa-solid fa-location-dot"></i>
+                            <h3>Location Manager</h3>
+                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga veniam similique deserunt veritatis placeat itaque</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <img src="photo/2.jpg" alt="">
+                    <a href=""> <i class="fa-solid fa-gauge-high"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
